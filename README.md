@@ -292,6 +292,10 @@ YOLOv7-3d-detection & YOLOv7-lidar & YOLOv7-road (with NTUT)
 </div>
 
 
+## Dataset for training
+The data comes from <a href="https://www.kaggle.com/datasets/andrewmvd/face-mask-detection">Kaggle dataset</a> on Face Mask Detection. It holds 853 images and the corresponding annotations in PASCAL VOC format.
+
+
 ## Acknowledgements
 
 <details><summary> <b>Expand</b> </summary>
